@@ -8,7 +8,7 @@ Group Members Availability:
 	Marianne: M-F: after 5:00 PM ; Saturdays; after class; Sundays, after 1 pm
 	Rebecca:  M-F: after 5:00 PM; Sundays after 7:00 PM
 
-Project Description 2: As part of this year’s annual team building event, to maintain our virtual culture, MAR Investments will be hosting a fantasy baseball league (Miami MARtians Fantasy League) through the end of the year.  Our development team has been busily creating a website where you will be able to use machine learning to choose your team and then compare it against other teams.  Using prior year stats, you will be able to use our machine learning model to predict how well your players will do in the current season.  Using some of the proceeds from our recent success with HotMess Brewery, there will be prizes for the winning teams each week. 
+Project Description: As part of this year’s annual team building event, to maintain our virtual culture, MAR Investments will be hosting a fantasy baseball league (Miami MARtians Fantasy League) through the end of the year.  Our development team has been busily creating a website where you will be able to use machine learning to choose your team and then compare it against other teams.  Using prior year stats, you will be able to use our machine learning model to predict how well your players will do in the current season.  Using some of the proceeds from our recent success with HotMess Brewery, there will be prizes for the winning teams each week. 
 
 Note:  We will be using 2019 datasets to predict the player effectiveness in 2020 and will be able to see if our predictions are correct.
 
