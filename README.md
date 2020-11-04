@@ -13,32 +13,45 @@ Project Description: As part of this year’s annual team building event, to mai
 Note:  We will be using 2019 datasets to predict the player effectiveness in 2020 and will be able to see if our predictions are correct.
 
 Datasets: 
-  https://www.rotowire.com/baseball/stats.php
-  https://www.sports-reference.com/
-  https://cricsheet.org/downloads/
-  https://www.kaggle.com/open-source-sports/baseball-databank
-  https://www.kaggle.com/wduckett/moneyball-mlb-stats-19622012
-  https://www.usatoday.com/sports/mlb/salaries/
-  https://baseballsavant.mlb.com/leaderboard/statcast 
+  
+  	https://www.rotowire.com/baseball/stats.php
+  
+ 	https://www.sports-reference.com/
+  
+ 	https://cricsheet.org/downloads/
+  
+  	https://www.kaggle.com/open-source-sports/baseball-databank
+  
+  	https://www.kaggle.com/wduckett/moneyball-mlb-stats-19622012
+  
+  	https://www.usatoday.com/sports/mlb/salaries/
+  
+  	https://baseballsavant.mlb.com/leaderboard/statcast 
+  
 
 
 
-Research: 
-  https://www.espn.com/fantasy/baseball/story/_/id/29206017/advanced-stats-use-fantasy-baseball 
-  https://fantasysixpack.net/creating-fantasy-baseball-player-rater/ 
-  https://www.wisegeek.com/how-does-fantasy-baseball-work.htm
-  https://www.dummies.com/sports/fantasy-sports/fantasy-baseball/how-to-play-fantasy-baseball/
-  http://m.mlb.com/glossary/statcast 
+Research:
+
+  	https://www.espn.com/fantasy/baseball/story/_/id/29206017/advanced-stats-use-fantasy-baseball
+	
+  	https://fantasysixpack.net/creating-fantasy-baseball-player-rater/ 
+	
+  	https://www.wisegeek.com/how-does-fantasy-baseball-work.htm
+	
+  	https://www.dummies.com/sports/fantasy-sports/fantasy-baseball/how-to-play-fantasy-baseball/
+	
+  	http://m.mlb.com/glossary/statcast 
   
 Project Tools (planned):
-  Python Pandas
-  Python Matplotlib
-  Postgres
-  Javascript / CSS / HTML
-  Tableau
-  Scikit-Learn
+  Python Pandas, 
+  Python Matplotlib, 
+  Postgres, 
+  Javascript / CSS / HTML, 
+  Tableau, 
+  Scikit-Learn, 
   Heroku
 
-Project Tasks: (See Project Plan Document in Documents / Project Plan)
+Project Tasks: (See Project Plan Folder)
 
 Visualization Inspiration (See Images Folder)
