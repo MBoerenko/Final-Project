@@ -1,7 +1,5 @@
 # FINAL PROJECT
 
-FINAL PROJECT
-
 Title: MAR Investments - Baseball Team
 Group Members: Marianne Boerenko, Rebecca Gonzalez, Arun Kara
 
